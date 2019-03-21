@@ -1,0 +1,13 @@
+C:\Users\carrascoja\source\repos\SpotiHitssV1\SpotiHitssV1\bin\Debug\SpotiHitssV1.exe.config
+C:\Users\carrascoja\source\repos\SpotiHitssV1\SpotiHitssV1\bin\Debug\SpotiHitssV1.exe
+C:\Users\carrascoja\source\repos\SpotiHitssV1\SpotiHitssV1\bin\Debug\SpotiHitssV1.pdb
+C:\Users\carrascoja\source\repos\SpotiHitssV1\SpotiHitssV1\obj\Debug\SpotiHitssV1.csprojAssemblyReference.cache
+C:\Users\carrascoja\source\repos\SpotiHitssV1\SpotiHitssV1\obj\Debug\SpotiHitssV1.Form1.resources
+C:\Users\carrascoja\source\repos\SpotiHitssV1\SpotiHitssV1\obj\Debug\SpotiHitssV1.Ingresar_usuario.resources
+C:\Users\carrascoja\source\repos\SpotiHitssV1\SpotiHitssV1\obj\Debug\SpotiHitssV1.Properties.Resources.resources
+C:\Users\carrascoja\source\repos\SpotiHitssV1\SpotiHitssV1\obj\Debug\SpotiHitssV1.Registro_Usuario.resources
+C:\Users\carrascoja\source\repos\SpotiHitssV1\SpotiHitssV1\obj\Debug\SpotiHitssV1.csproj.GenerateResource.cache
+C:\Users\carrascoja\source\repos\SpotiHitssV1\SpotiHitssV1\obj\Debug\SpotiHitssV1.csproj.CoreCompileInputs.cache
+C:\Users\carrascoja\source\repos\SpotiHitssV1\SpotiHitssV1\obj\Debug\SpotiHitssV1.exe
+C:\Users\carrascoja\source\repos\SpotiHitssV1\SpotiHitssV1\obj\Debug\SpotiHitssV1.pdb
+C:\Users\carrascoja\source\repos\SpotiHitssV1\SpotiHitssV1\obj\Debug\SpotiHitssV1.Canciones.resources
